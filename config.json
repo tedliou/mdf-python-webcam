@@ -1,0 +1,18 @@
+{
+    "name": "Webcam Module",
+    "version": "1.0.0",
+    "inputs": [
+        "camera"
+    ],
+    "input_params": {
+        "camera_id": 0
+    },
+    "outputs": [
+        "ndi"
+    ],
+    "output_params": {
+        "ndi_name": "camera_ndi"
+    },
+    "process": [],
+    "process_params": {}
+}
